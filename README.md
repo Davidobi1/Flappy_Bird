@@ -2,7 +2,7 @@
 
 This is a simple clone of Flappy Bird built with Python and Pygame.
 
-![screenshot](Screenshot.png)
+![screenshot](Screenshot.png.png)
 
 ## 🎮 How to Play
 

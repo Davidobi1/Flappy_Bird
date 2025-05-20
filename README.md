@@ -2,7 +2,7 @@
 
 This is a simple clone of Flappy Bird built with Python and Pygame.
 
-![screenshot](c:\Users\David\AppData\Local\Packages\MicrosoftWindows.Client.Core_cw5n1h2txyewy\TempState\ScreenClip\{BDB1428C-A477-4172-B169-3027D85ED219}.png)
+![screenshot](Screenshot.png)
 
 ## 🎮 How to Play
 
